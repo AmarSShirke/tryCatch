@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var tblMain: UITableView!
     
     let HeaderArr = ["HD","Standard","Series"]
-    let dataArr = [["HD1","HD2","HD3","HD4","HD5","HD6","HD7","HD8","HD9","HD10","HD11","HD13"],
+    let dataArr = [["HD1","HD2","HD3","HD4","HD5","HD6","HD7","HD8","HD9","HD10","HD11","HD12","HD13"],
                    ["K3G","Phantom","Spiderman","DDLJ","MS"],
                    ["S1","S22","S433","S6789"]]
     
